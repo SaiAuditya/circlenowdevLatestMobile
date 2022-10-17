@@ -1,0 +1,87 @@
+[
+ {
+  "name":"Navya Brundavanam",
+  "id":"Navya1",
+  "options" :[{"id":"1", "name": "Know More"}],
+  "shortDescription":"This is beatuiful ICON place",
+  "imagepath":["Navya_Landmark.jpg","Navya_Villas.jpg"],
+  "details" :
+    {
+        "about" : "When it comes to real estate dealings, we deliver on truth & reliability. At Navya Developers, each of us are guided by the philosophy and vision of our founder, Mr Sridhara Reddy. Our core values of Integrity, Commitment and Customer-centricity are beacons for the way we all work. Each member of our leadership team has considerable experience in constructing and realising dream homes for our discerning customers.",
+        "website" : "https://navyadevelopers.in/",
+        "projectName" : "Navya Brundavanam",
+        "city":"Hyderabad",
+        "amenities": ["DTCP Approved Layout","Grand Entrance Arch","40′ & 30′ Black Top Roads","Underground Drainage","Water Pipeline for all roads"],
+        "plans":["1.pdf","2.pdf","3.pdf"],
+        "photos":["back_ground.jpg","back_ground2.jpeg"],
+        "videos":[""],
+        "address":["On NH6","near ORR exit 3","Sadasivapet"],
+        "highlights":["High class eminits", "Near to ORR","Super fast commutation from 100ft road","Near to pharama city"],
+        "location":""
+    }
+ },
+ {
+    "name":"Navya Villas",
+    "id":"Navya2",
+    "options" :[{"id":"1", "name": "Know More"}],
+    "shortDescription":"This is beatuiful Villa place",
+    "imagepath":["Navya_Villas.jpg","Navya_Landmark.jpg"],
+    "details" :
+    {
+        "about" : "When it comes to real estate dealings, we deliver on truth & reliability. At Navya Developers, each of us are guided by the philosophy and vision of our founder, Mr Sridhara Reddy. Our core values of Integrity, Commitment and Customer-centricity are beacons for the way we all work. Each member of our leadership team has considerable experience in constructing and realising dream homes for our discerning customers.",
+        "website" : "https://navyadevelopers.in/",
+        "projectName" : "Navya Brundavanam",
+        "city":"Hyderabad",
+        "amenities": ["DTCP Approved Layout","Grand Entrance Arch","40′ & 30′ Black Top Roads","Underground Drainage","Water Pipeline for all roads"],
+        "plans":["1.pdf","2.pdf","3.pdf"],
+        "photos":["back_ground.jpg","back_ground2.jpeg"],
+        "videos":[""],
+        "address":["On NH6","near ORR exit 3","Sadasivapet"],
+        "highlights":["High class eminits", "Near to ORR","Super fast commutation from 100ft road","Near to pharama city"],
+        "location":""
+    }
+
+ },
+ {
+    "name":"Navya Nagar",
+    "id":"Navya3",
+    "options" :[{"id":"1", "name": "Know More"}],
+    "shortDescription":"This is beatuiful Villa place",
+    "imagepath":["Navya_Villas.jpg","Navya_Landmark.jpg"],
+    "details" :
+    {
+        "about" : "When it comes to real estate dealings, we deliver on truth & reliability. At Navya Developers, each of us are guided by the philosophy and vision of our founder, Mr Sridhara Reddy. Our core values of Integrity, Commitment and Customer-centricity are beacons for the way we all work. Each member of our leadership team has considerable experience in constructing and realising dream homes for our discerning customers.",
+        "website" : "https://navyadevelopers.in/",
+        "projectName" : "Navya Brundavanam",
+        "city":"Hyderabad",
+        "amenities": ["DTCP Approved Layout","Grand Entrance Arch","40′ & 30′ Black Top Roads","Underground Drainage","Water Pipeline for all roads"],
+        "plans":["1.pdf","2.pdf","3.pdf"],
+        "photos":["back_ground.jpg","back_ground2.jpeg"],
+        "videos":[""],
+        "address":["On NH6","near ORR exit 3","Sadasivapet"],
+        "highlights":["High class eminits", "Near to ORR","Super fast commutation from 100ft road","Near to pharama city"],
+        "location":""
+    }
+ },
+ {
+    "name":"Navya Icon",
+    "id":"Navya4",
+    "options" :[{"id":"1", "name": "Know More"}],
+    "shortDescription":"This is beatuiful ICON place",
+    "imagepath":["Navya_Landmark.jpg","Navya_Villas.jpg"],
+    "details" :
+    {
+        "about" : "When it comes to real estate dealings, we deliver on truth & reliability. At Navya Developers, each of us are guided by the philosophy and vision of our founder, Mr Sridhara Reddy. Our core values of Integrity, Commitment and Customer-centricity are beacons for the way we all work. Each member of our leadership team has considerable experience in constructing and realising dream homes for our discerning customers.",
+        "website" : "https://navyadevelopers.in/",
+        "projectName" : "Navya Brundavanam",
+        "city":"Hyderabad",
+        "amenities": ["DTCP Approved Layout","Grand Entrance Arch","40′ & 30′ Black Top Roads","Underground Drainage","Water Pipeline for all roads"],
+        "plans":["1.pdf","2.pdf","3.pdf"],
+        "photos":["back_ground.jpg","back_ground2.jpeg"],
+        "videos":[""],
+        "address":["On NH6","near ORR exit 3","Sadasivapet"],
+        "highlights":["High class eminits", "Near to ORR","Super fast commutation from 100ft road","Near to pharama city"],
+        "location":""
+    }
+   }
+]
